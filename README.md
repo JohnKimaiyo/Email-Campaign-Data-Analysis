@@ -2,3 +2,18 @@ Email Campign Data Analysis : refers to the process of gathering and analyzing d
 
 Objective
 
+1 Display Total Campaign
+
+2 Dispaly Unique click count
+
+3 Display Total Email Click Count
+
+4 Dipslay Email Open Count
+
+5 Dispaly Bounce Email
+
+6 Display Delivered Email
+
+7 Display Email Sent
+
+
