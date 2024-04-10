@@ -4,13 +4,13 @@ Objective
 
 1 Display Total Campaign
 
-2 Dispaly Unique click count
+2 Display Unique click count
 
 3 Display Total Email Click Count
 
-4 Dipslay Email Open Count
+4 Display Email Open Count
 
-5 Dispaly Bounce Email
+5 Display Bounce Email
 
 6 Display Delivered Email
 
